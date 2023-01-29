@@ -6,5 +6,6 @@ Label: Stroke(Yes/No)
 Highly Imbalanced dataset: Contains 3178 no stroke labels against 159 stroke labels.
 
 ## Techniques used
-SMOTE and Near Miss Method: To deal with imbalance in the data
+SMOTE and Near Miss Method: To deal with imbalance in the data by oversampling and undersampling.
+
 Tried ANN model also using Tensorflow with Keras API 
